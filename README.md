@@ -3,7 +3,7 @@
 This repository contains the MATLAB implementation of the structural noise correction framework proposed in the paper:
 
 > **Photo Response Non-Uniformity Correction for Digital Mammography Systems**  
-> Renann F. Brandão, Arthur C. Costa, Lucas E. Soares, Alessandro F. Frangi, Marcelo A. Vieira, and Wellington P. Santos  
+> Renann F. Brandão, Lucas R. Borges, Renato F. Caron, Andrew D. A. Maidment and Marcelo A. C. Vieira
 > Brazilian Congress on Biomedical Engineering (CBEB 2024)
 
 The proposed method estimates the Photo Response Non-Uniformity (PRNU) map from flat-field mammography images and applies a correction step prior to denoising. The objective is to reduce the influence of structural noise, improving the balance between noise suppression and signal preservation in indirect-conversion digital mammography systems.
